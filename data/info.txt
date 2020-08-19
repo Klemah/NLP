@@ -1,0 +1,32 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\lib\idea_rt.jar=53231:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\aguil\Documents\Karlova\NLP\NLP\out\production\NLP;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.1.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.13.1.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-library\srcs\scala-library-2.13.1-sources.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-reflect\srcs\scala-reflect-2.13.1-sources.jar NLP01
+Number of English words: 221098 / distinct words: 9607
+Number of Czech words: 222412 / distinct words: 42826
+Number of English characters: 972917
+Number of Czech characters: 1030631
+(,,14721)
+(the,13299)
+(of,9368)
+(.,5645)
+(and,5537)
+(in,4761)
+(to,4548)
+(a,3132)
+(that,2637)
+(;,2151)
+(have,2084)
+(,,13788)
+(.,12931)
+(a,4486)
+(v,4043)
+(:,3434)
+(se,3378)
+(na,2646)
+(-,2549)
+(",2506)
+(),1761)
+((,1748)
+Number of words with frequency 1 in the English text: 3811
+Number of words with frequency 1 in the Czech text: 26315
+Execution of the program took 0.0 minute(s) and 0.9 seconds.
+
+Process finished with exit code 0

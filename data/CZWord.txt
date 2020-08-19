@@ -1,0 +1,187 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\lib\idea_rt.jar=53093:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\aguil\Documents\Karlova\NLP\NLP\out\production\NLP;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.1.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.13.1.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-library\srcs\scala-library-2.13.1-sources.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-reflect\srcs\scala-reflect-2.13.1-sources.jar NLP01
+Conditional entropy of the Czech text: 4.747814094785817
+Perplexity of the Czech text: 26.867945356426052
+Execution of the iteration n°0 with mess-up 0.0% took 0.0 minute(s) and 1.0 seconds. The program has been running for 0.0 minute(s) and 1.0 seconds.
+Conditional entropy of the Czech text: 4.747814094785817
+Perplexity of the Czech text: 26.867945356426052
+Execution of the iteration n°1 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 1.4 seconds.
+Conditional entropy of the Czech text: 4.747814094785817
+Perplexity of the Czech text: 26.867945356426052
+Execution of the iteration n°2 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 1.8 seconds.
+Conditional entropy of the Czech text: 4.747779593144215
+Perplexity of the Czech text: 26.867302824837072
+Execution of the iteration n°3 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 2.2 seconds.
+Conditional entropy of the Czech text: 4.747814094785817
+Perplexity of the Czech text: 26.867945356426052
+Execution of the iteration n°4 with mess-up 0.001% took 0.0 minute(s) and 0.5 seconds. The program has been running for 0.0 minute(s) and 2.7 seconds.
+Conditional entropy of the Czech text: 4.747814094785817
+Perplexity of the Czech text: 26.867945356426052
+Execution of the iteration n°5 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 3.1 seconds.
+Conditional entropy of the Czech text: 4.747814094785817
+Perplexity of the Czech text: 26.867945356426052
+Execution of the iteration n°6 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 3.5 seconds.
+Conditional entropy of the Czech text: 4.747814094785817
+Perplexity of the Czech text: 26.867945356426052
+Execution of the iteration n°7 with mess-up 0.001% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 3.7 seconds.
+Conditional entropy of the Czech text: 4.7477967569882145
+Perplexity of the Czech text: 26.867622468922935
+Execution of the iteration n°8 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 4.1 seconds.
+Conditional entropy of the Czech text: 4.747759648823383
+Perplexity of the Czech text: 26.86693140441323
+Execution of the iteration n°9 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 4.5 seconds.
+Conditional entropy of the Czech text: 4.747814094785817
+Perplexity of the Czech text: 26.867945356426052
+Execution of the iteration n°10 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 4.9 seconds.
+Conditional entropy of the Czech text: 4.747651614329928
+Perplexity of the Czech text: 26.864919581700715
+Execution of the iteration n°1 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 5.2 seconds.
+Conditional entropy of the Czech text: 4.747823689011525
+Perplexity of the Czech text: 26.86812403451246
+Execution of the iteration n°2 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 5.5 seconds.
+Conditional entropy of the Czech text: 4.747800993349845
+Perplexity of the Czech text: 26.867701363719696
+Execution of the iteration n°3 with mess-up 0.01% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 5.9 seconds.
+Conditional entropy of the Czech text: 4.747618073415321
+Perplexity of the Czech text: 26.86429501207671
+Execution of the iteration n°4 with mess-up 0.01% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 6.3 seconds.
+Conditional entropy of the Czech text: 4.7476924839571115
+Perplexity of the Czech text: 26.865680639837407
+Execution of the iteration n°5 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 6.6 seconds.
+Conditional entropy of the Czech text: 4.747673836727201
+Perplexity of the Czech text: 26.865333395775554
+Execution of the iteration n°6 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 6.8 seconds.
+Conditional entropy of the Czech text: 4.747710749038449
+Perplexity of the Czech text: 26.866020771975123
+Execution of the iteration n°7 with mess-up 0.01% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 7.2 seconds.
+Conditional entropy of the Czech text: 4.7477315813159695
+Perplexity of the Czech text: 26.86640871566773
+Execution of the iteration n°8 with mess-up 0.01% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 7.6 seconds.
+Conditional entropy of the Czech text: 4.747840403853755
+Perplexity of the Czech text: 26.868435326256815
+Execution of the iteration n°9 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 8.0 seconds.
+Conditional entropy of the Czech text: 4.747803167923673
+Perplexity of the Czech text: 26.86774186142891
+Execution of the iteration n°10 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 8.2 seconds.
+Conditional entropy of the Czech text: 4.746438750711061
+Perplexity of the Czech text: 26.842343922850144
+Execution of the iteration n°1 with mess-up 0.1% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 8.5 seconds.
+Conditional entropy of the Czech text: 4.7469238346600875
+Perplexity of the Czech text: 26.851370764342906
+Execution of the iteration n°2 with mess-up 0.1% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 8.9 seconds.
+Conditional entropy of the Czech text: 4.746612456068444
+Perplexity of the Czech text: 26.845576026325364
+Execution of the iteration n°3 with mess-up 0.1% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 9.2 seconds.
+Conditional entropy of the Czech text: 4.746640836121473
+Perplexity of the Czech text: 26.846104125711122
+Execution of the iteration n°4 with mess-up 0.1% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 9.6 seconds.
+Conditional entropy of the Czech text: 4.74611615360308
+Perplexity of the Czech text: 26.836342450459487
+Execution of the iteration n°5 with mess-up 0.1% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 9.9 seconds.
+Conditional entropy of the Czech text: 4.746563956818903
+Perplexity of the Czech text: 26.844673570595265
+Execution of the iteration n°6 with mess-up 0.1% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 10.2 seconds.
+Conditional entropy of the Czech text: 4.746988797559713
+Perplexity of the Czech text: 26.852579877930886
+Execution of the iteration n°7 with mess-up 0.1% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 10.5 seconds.
+Conditional entropy of the Czech text: 4.747121487003403
+Perplexity of the Czech text: 26.855049712263575
+Execution of the iteration n°8 with mess-up 0.1% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 10.9 seconds.
+Conditional entropy of the Czech text: 4.746898718639558
+Perplexity of the Czech text: 26.850903310244895
+Execution of the iteration n°9 with mess-up 0.1% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 11.2 seconds.
+Conditional entropy of the Czech text: 4.746979006180492
+Perplexity of the Czech text: 26.85239763366374
+Execution of the iteration n°10 with mess-up 0.1% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 11.6 seconds.
+Conditional entropy of the Czech text: 4.7398012139376196
+Perplexity of the Czech text: 26.719131592389285
+Execution of the iteration n°1 with mess-up 1.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 12.0 seconds.
+Conditional entropy of the Czech text: 4.739614923545057
+Perplexity of the Czech text: 26.715681662902497
+Execution of the iteration n°2 with mess-up 1.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 12.3 seconds.
+Conditional entropy of the Czech text: 4.739218517228006
+Perplexity of the Czech text: 26.70834205898339
+Execution of the iteration n°3 with mess-up 1.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 12.7 seconds.
+Conditional entropy of the Czech text: 4.739217326283651
+Perplexity of the Czech text: 26.708320011263538
+Execution of the iteration n°4 with mess-up 1.0% took 0.0 minute(s) and 0.5 seconds. The program has been running for 0.0 minute(s) and 13.2 seconds.
+Conditional entropy of the Czech text: 4.738287126055458
+Perplexity of the Czech text: 26.69110495397167
+Execution of the iteration n°5 with mess-up 1.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 13.6 seconds.
+Conditional entropy of the Czech text: 4.738835747187553
+Perplexity of the Czech text: 26.701256849138154
+Execution of the iteration n°6 with mess-up 1.0% took 0.0 minute(s) and 0.5 seconds. The program has been running for 0.0 minute(s) and 14.1 seconds.
+Conditional entropy of the Czech text: 4.738672782156822
+Perplexity of the Czech text: 26.698240878842167
+Execution of the iteration n°7 with mess-up 1.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 14.5 seconds.
+Conditional entropy of the Czech text: 4.740001224707967
+Perplexity of the Czech text: 26.722836106790577
+Execution of the iteration n°8 with mess-up 1.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 14.8 seconds.
+Conditional entropy of the Czech text: 4.7395322341480535
+Perplexity of the Czech text: 26.71415047284678
+Execution of the iteration n°9 with mess-up 1.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 15.2 seconds.
+Conditional entropy of the Czech text: 4.739546015961478
+Perplexity of the Czech text: 26.714405669673354
+Execution of the iteration n°10 with mess-up 1.0% took 0.0 minute(s) and 0.5 seconds. The program has been running for 0.0 minute(s) and 15.7 seconds.
+Conditional entropy of the Czech text: 4.699929480195107
+Perplexity of the Czech text: 25.990806206044823
+Execution of the iteration n°1 with mess-up 5.0% took 0.0 minute(s) and 0.7 seconds. The program has been running for 0.0 minute(s) and 16.4 seconds.
+Conditional entropy of the Czech text: 4.700489563870598
+Perplexity of the Czech text: 26.000898326617317
+Execution of the iteration n°2 with mess-up 5.0% took 0.0 minute(s) and 0.9 seconds. The program has been running for 0.0 minute(s) and 17.3 seconds.
+Conditional entropy of the Czech text: 4.698700097064485
+Perplexity of the Czech text: 25.968667744666938
+Execution of the iteration n°3 with mess-up 5.0% took 0.0 minute(s) and 0.7 seconds. The program has been running for 0.0 minute(s) and 18.1 seconds.
+Conditional entropy of the Czech text: 4.69555844057569
+Perplexity of the Czech text: 25.912179113962534
+Execution of the iteration n°4 with mess-up 5.0% took 0.0 minute(s) and 0.7 seconds. The program has been running for 0.0 minute(s) and 18.8 seconds.
+Conditional entropy of the Czech text: 4.6977529678529635
+Perplexity of the Czech text: 25.951624910705238
+Execution of the iteration n°5 with mess-up 5.0% took 0.0 minute(s) and 0.7 seconds. The program has been running for 0.0 minute(s) and 19.5 seconds.
+Conditional entropy of the Czech text: 4.698733340616432
+Perplexity of the Czech text: 25.969266139114154
+Execution of the iteration n°6 with mess-up 5.0% took 0.0 minute(s) and 0.9 seconds. The program has been running for 0.0 minute(s) and 20.4 seconds.
+Conditional entropy of the Czech text: 4.698584189451084
+Perplexity of the Czech text: 25.966581478818973
+Execution of the iteration n°7 with mess-up 5.0% took 0.0 minute(s) and 0.7 seconds. The program has been running for 0.0 minute(s) and 21.1 seconds.
+Conditional entropy of the Czech text: 4.6956197982726575
+Perplexity of the Czech text: 25.9132811801641
+Execution of the iteration n°8 with mess-up 5.0% took 0.0 minute(s) and 0.7 seconds. The program has been running for 0.0 minute(s) and 21.8 seconds.
+Conditional entropy of the Czech text: 4.69872644548978
+Perplexity of the Czech text: 25.96914202352069
+Execution of the iteration n°9 with mess-up 5.0% took 0.0 minute(s) and 0.9 seconds. The program has been running for 0.0 minute(s) and 22.7 seconds.
+Conditional entropy of the Czech text: 4.69837152827109
+Perplexity of the Czech text: 25.962754144054223
+Execution of the iteration n°10 with mess-up 5.0% took 0.0 minute(s) and 0.7 seconds. The program has been running for 0.0 minute(s) and 23.5 seconds.
+Conditional entropy of the Czech text: 4.634712359748064
+Perplexity of the Czech text: 24.842050571996456
+Execution of the iteration n°1 with mess-up 10.0% took 0.0 minute(s) and 1.2 seconds. The program has been running for 0.0 minute(s) and 24.7 seconds.
+Conditional entropy of the Czech text: 4.635229001576994
+Perplexity of the Czech text: 24.85094832267556
+Execution of the iteration n°2 with mess-up 10.0% took 0.0 minute(s) and 1.2 seconds. The program has been running for 0.0 minute(s) and 25.9 seconds.
+Conditional entropy of the Czech text: 4.634821186831825
+Perplexity of the Czech text: 24.843924557704245
+Execution of the iteration n°3 with mess-up 10.0% took 0.0 minute(s) and 1.3 seconds. The program has been running for 0.0 minute(s) and 27.3 seconds.
+Conditional entropy of the Czech text: 4.6399758435179
+Perplexity of the Czech text: 24.93284907007937
+Execution of the iteration n°4 with mess-up 10.0% took 0.0 minute(s) and 1.2 seconds. The program has been running for 0.0 minute(s) and 28.5 seconds.
+Conditional entropy of the Czech text: 4.635373054402551
+Perplexity of the Czech text: 24.853429809026988
+Execution of the iteration n°5 with mess-up 10.0% took 0.0 minute(s) and 1.3 seconds. The program has been running for 0.0 minute(s) and 29.8 seconds.
+Conditional entropy of the Czech text: 4.636772648209846
+Perplexity of the Czech text: 24.877552429310523
+Execution of the iteration n°6 with mess-up 10.0% took 0.0 minute(s) and 1.2 seconds. The program has been running for 0.0 minute(s) and 31.0 seconds.
+Conditional entropy of the Czech text: 4.638794430990583
+Perplexity of the Czech text: 24.912440097950448
+Execution of the iteration n°7 with mess-up 10.0% took 0.0 minute(s) and 1.2 seconds. The program has been running for 0.0 minute(s) and 32.2 seconds.
+Conditional entropy of the Czech text: 4.636854595622981
+Perplexity of the Czech text: 24.878965554683074
+Execution of the iteration n°8 with mess-up 10.0% took 0.0 minute(s) and 1.3 seconds. The program has been running for 0.0 minute(s) and 33.5 seconds.
+Conditional entropy of the Czech text: 4.635097532290947
+Perplexity of the Czech text: 24.848683819449022
+Execution of the iteration n°9 with mess-up 10.0% took 0.0 minute(s) and 1.2 seconds. The program has been running for 0.0 minute(s) and 34.8 seconds.
+Conditional entropy of the Czech text: 4.6364208441208845
+Perplexity of the Czech text: 24.87148672768454
+Execution of the iteration n°10 with mess-up 10.0% took 0.0 minute(s) and 1.2 seconds. The program has been running for 0.0 minute(s) and 36.0 seconds.
+Execution of the program took 0.0 minute(s) and 36.0 seconds.
+
+Process finished with exit code 0

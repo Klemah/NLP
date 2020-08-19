@@ -1,0 +1,187 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\lib\idea_rt.jar=52869:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\aguil\Documents\Karlova\NLP\NLP\out\production\NLP;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.13.1.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.13.1.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-library\srcs\scala-library-2.13.1-sources.jar;C:\Users\aguil\.ivy2\cache\org.scala-lang\scala-reflect\srcs\scala-reflect-2.13.1-sources.jar NLP01
+Conditional entropy of the English text: 5.287465248831982
+Perplexity of the English text: 39.05580924650842
+Execution of the iteration n°0 with mess-up 0.0% took 0.0 minute(s) and 0.9 seconds. The program has been running for 0.0 minute(s) and 1.0 seconds.
+Conditional entropy of the English text: 5.287461448614196
+Perplexity of the English text: 39.0557063693367
+Execution of the iteration n°1 with mess-up 0.001% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 1.4 seconds.
+Conditional entropy of the English text: 5.287535900889013
+Perplexity of the English text: 39.057721945139505
+Execution of the iteration n°2 with mess-up 0.001% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 1.6 seconds.
+Conditional entropy of the English text: 5.287505126417237
+Perplexity of the English text: 39.05688880444948
+Execution of the iteration n°3 with mess-up 0.001% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 1.9 seconds.
+Conditional entropy of the English text: 5.287497883924845
+Perplexity of the English text: 39.05669273493931
+Execution of the iteration n°4 with mess-up 0.001% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 2.1 seconds.
+Conditional entropy of the English text: 5.2875150283129395
+Perplexity of the English text: 39.057156871196526
+Execution of the iteration n°5 with mess-up 0.001% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 2.5 seconds.
+Conditional entropy of the English text: 5.287518196489797
+Perplexity of the English text: 39.05724264130932
+Execution of the iteration n°6 with mess-up 0.001% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 2.8 seconds.
+Conditional entropy of the English text: 5.28747650008082
+Perplexity of the English text: 39.056113835024675
+Execution of the iteration n°7 with mess-up 0.001% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 3.0 seconds.
+Conditional entropy of the English text: 5.287484016045392
+Perplexity of the English text: 39.05631730500565
+Execution of the iteration n°8 with mess-up 0.001% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 3.3 seconds.
+Conditional entropy of the English text: 5.2874628202903
+Perplexity of the English text: 39.05574350248203
+Execution of the iteration n°9 with mess-up 0.001% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 3.5 seconds.
+Conditional entropy of the English text: 5.287439669820642
+Perplexity of the English text: 39.05511679238393
+Execution of the iteration n°10 with mess-up 0.001% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 3.8 seconds.
+Conditional entropy of the English text: 5.287728769107152
+Perplexity of the English text: 39.06294376719693
+Execution of the iteration n°1 with mess-up 0.01% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 4.0 seconds.
+Conditional entropy of the English text: 5.28756720818462
+Perplexity of the English text: 39.05856952891829
+Execution of the iteration n°2 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 4.3 seconds.
+Conditional entropy of the English text: 5.287777843786354
+Perplexity of the English text: 39.064272553935936
+Execution of the iteration n°3 with mess-up 0.01% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 4.5 seconds.
+Conditional entropy of the English text: 5.287538978297346
+Perplexity of the English text: 39.05780525913433
+Execution of the iteration n°4 with mess-up 0.01% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 4.7 seconds.
+Conditional entropy of the English text: 5.28761609686568
+Perplexity of the English text: 39.05989313109937
+Execution of the iteration n°5 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 5.0 seconds.
+Conditional entropy of the English text: 5.287582194752693
+Perplexity of the English text: 39.05897526743876
+Execution of the iteration n°6 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 5.3 seconds.
+Conditional entropy of the English text: 5.287706220644139
+Perplexity of the English text: 39.06233324145552
+Execution of the iteration n°7 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 5.5 seconds.
+Conditional entropy of the English text: 5.287761681112515
+Perplexity of the English text: 39.06383491497454
+Execution of the iteration n°8 with mess-up 0.01% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 5.8 seconds.
+Conditional entropy of the English text: 5.287596549418909
+Perplexity of the English text: 39.059363902130215
+Execution of the iteration n°9 with mess-up 0.01% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 6.0 seconds.
+Conditional entropy of the English text: 5.287650148965307
+Perplexity of the English text: 39.0608150772014
+Execution of the iteration n°10 with mess-up 0.01% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 6.2 seconds.
+Conditional entropy of the English text: 5.289724819736299
+Perplexity of the English text: 39.11702697621656
+Execution of the iteration n°1 with mess-up 0.1% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 6.5 seconds.
+Conditional entropy of the English text: 5.289720212029083
+Perplexity of the English text: 39.11690204370169
+Execution of the iteration n°2 with mess-up 0.1% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 6.7 seconds.
+Conditional entropy of the English text: 5.289468884141357
+Perplexity of the English text: 39.11008819059628
+Execution of the iteration n°3 with mess-up 0.1% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 6.8 seconds.
+Conditional entropy of the English text: 5.2891949796315645
+Perplexity of the English text: 39.10266360509186
+Execution of the iteration n°4 with mess-up 0.1% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 7.0 seconds.
+Conditional entropy of the English text: 5.289472261237472
+Perplexity of the English text: 39.110179740561954
+Execution of the iteration n°5 with mess-up 0.1% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 7.2 seconds.
+Conditional entropy of the English text: 5.289169464259778
+Perplexity of the English text: 39.10197204509568
+Execution of the iteration n°6 with mess-up 0.1% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 7.5 seconds.
+Conditional entropy of the English text: 5.289457453150762
+Perplexity of the English text: 39.10977830855852
+Execution of the iteration n°7 with mess-up 0.1% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 7.7 seconds.
+Conditional entropy of the English text: 5.2895106807140735
+Perplexity of the English text: 39.111221272278854
+Execution of the iteration n°8 with mess-up 0.1% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 7.9 seconds.
+Conditional entropy of the English text: 5.289755327575082
+Perplexity of the English text: 39.11785417013956
+Execution of the iteration n°9 with mess-up 0.1% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 8.1 seconds.
+Conditional entropy of the English text: 5.289385225860757
+Perplexity of the English text: 39.10782036005893
+Execution of the iteration n°10 with mess-up 0.1% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 8.5 seconds.
+Conditional entropy of the English text: 5.308548214664421
+Perplexity of the English text: 39.630745869728344
+Execution of the iteration n°1 with mess-up 1.0% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 8.7 seconds.
+Conditional entropy of the English text: 5.307446002836048
+Perplexity of the English text: 39.600479740255054
+Execution of the iteration n°2 with mess-up 1.0% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 9.0 seconds.
+Conditional entropy of the English text: 5.306202062126831
+Perplexity of the English text: 39.566349576597915
+Execution of the iteration n°3 with mess-up 1.0% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 9.2 seconds.
+Conditional entropy of the English text: 5.306493854817793
+Perplexity of the English text: 39.57435288908042
+Execution of the iteration n°4 with mess-up 1.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 9.5 seconds.
+Conditional entropy of the English text: 5.306636216827661
+Perplexity of the English text: 39.57825819285959
+Execution of the iteration n°5 with mess-up 1.0% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 9.7 seconds.
+Conditional entropy of the English text: 5.306236642742149
+Perplexity of the English text: 39.567297971839764
+Execution of the iteration n°6 with mess-up 1.0% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 9.9 seconds.
+Conditional entropy of the English text: 5.306928209676406
+Perplexity of the English text: 39.58626940631747
+Execution of the iteration n°7 with mess-up 1.0% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 10.1 seconds.
+Conditional entropy of the English text: 5.307292577627811
+Perplexity of the English text: 39.59626860163939
+Execution of the iteration n°8 with mess-up 1.0% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 10.3 seconds.
+Conditional entropy of the English text: 5.3073249191888365
+Perplexity of the English text: 39.59715625942924
+Execution of the iteration n°9 with mess-up 1.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 10.7 seconds.
+Conditional entropy of the English text: 5.3063433678705465
+Perplexity of the English text: 39.57022511932062
+Execution of the iteration n°10 with mess-up 1.0% took 0.0 minute(s) and 0.2 seconds. The program has been running for 0.0 minute(s) and 10.9 seconds.
+Conditional entropy of the English text: 5.380416605829554
+Perplexity of the English text: 41.65496630702503
+Execution of the iteration n°1 with mess-up 5.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 11.2 seconds.
+Conditional entropy of the English text: 5.384051074613538
+Perplexity of the English text: 41.76003669806663
+Execution of the iteration n°2 with mess-up 5.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 11.5 seconds.
+Conditional entropy of the English text: 5.378121823205771
+Perplexity of the English text: 41.5887616640489
+Execution of the iteration n°3 with mess-up 5.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 11.9 seconds.
+Conditional entropy of the English text: 5.384811705815833
+Perplexity of the English text: 41.78205962110046
+Execution of the iteration n°4 with mess-up 5.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 12.2 seconds.
+Conditional entropy of the English text: 5.380828215551126
+Perplexity of the English text: 41.66685241926709
+Execution of the iteration n°5 with mess-up 5.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 12.5 seconds.
+Conditional entropy of the English text: 5.379637451966242
+Perplexity of the English text: 41.63247585377316
+Execution of the iteration n°6 with mess-up 5.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 12.8 seconds.
+Conditional entropy of the English text: 5.375477024610528
+Perplexity of the English text: 41.51258954549344
+Execution of the iteration n°7 with mess-up 5.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 13.1 seconds.
+Conditional entropy of the English text: 5.382288030018352
+Perplexity of the English text: 41.70903504029815
+Execution of the iteration n°8 with mess-up 5.0% took 0.0 minute(s) and 0.5 seconds. The program has been running for 0.0 minute(s) and 13.6 seconds.
+Conditional entropy of the English text: 5.382330599443108
+Perplexity of the English text: 41.71026576181163
+Execution of the iteration n°9 with mess-up 5.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 13.9 seconds.
+Conditional entropy of the English text: 5.378002002595182
+Perplexity of the English text: 41.58530772281706
+Execution of the iteration n°10 with mess-up 5.0% took 0.0 minute(s) and 0.3 seconds. The program has been running for 0.0 minute(s) and 14.2 seconds.
+Conditional entropy of the English text: 5.4585584131908105
+Perplexity of the English text: 43.97337662253966
+Execution of the iteration n°1 with mess-up 10.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 14.7 seconds.
+Conditional entropy of the English text: 5.455429402060336
+Perplexity of the English text: 43.87810764449726
+Execution of the iteration n°2 with mess-up 10.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 15.1 seconds.
+Conditional entropy of the English text: 5.462803346048839
+Perplexity of the English text: 44.1029528061657
+Execution of the iteration n°3 with mess-up 10.0% took 0.0 minute(s) and 0.6 seconds. The program has been running for 0.0 minute(s) and 15.6 seconds.
+Conditional entropy of the English text: 5.457517578713874
+Perplexity of the English text: 43.94166340590676
+Execution of the iteration n°4 with mess-up 10.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 16.1 seconds.
+Conditional entropy of the English text: 5.459124831342644
+Perplexity of the English text: 43.99064444983216
+Execution of the iteration n°5 with mess-up 10.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 16.5 seconds.
+Conditional entropy of the English text: 5.453632543815778
+Perplexity of the English text: 43.82349204050014
+Execution of the iteration n°6 with mess-up 10.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 16.9 seconds.
+Conditional entropy of the English text: 5.455363231178689
+Perplexity of the English text: 43.87609517034198
+Execution of the iteration n°7 with mess-up 10.0% took 0.0 minute(s) and 0.6 seconds. The program has been running for 0.0 minute(s) and 17.4 seconds.
+Conditional entropy of the English text: 5.45823829922923
+Perplexity of the English text: 43.96362062434017
+Execution of the iteration n°8 with mess-up 10.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 17.9 seconds.
+Conditional entropy of the English text: 5.458835246394791
+Perplexity of the English text: 43.98181531430259
+Execution of the iteration n°9 with mess-up 10.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 18.3 seconds.
+Conditional entropy of the English text: 5.458638635452195
+Perplexity of the English text: 43.97582186681792
+Execution of the iteration n°10 with mess-up 10.0% took 0.0 minute(s) and 0.4 seconds. The program has been running for 0.0 minute(s) and 18.7 seconds.
+Execution of the program took 0.0 minute(s) and 18.7 seconds.
+
+Process finished with exit code 0
